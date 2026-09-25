@@ -21,7 +21,7 @@ int main(int argc, char **argv)
 	printf("\n");
 	printf("\n");
 	printf("Последние 2 стобца совпадают полностью \n");
-	printf("равенство A-->B=!A||B Верно\n");
+	printf("Значит тождество A-->B=!A||B Верно\n");
 	return 0;
 }
 
